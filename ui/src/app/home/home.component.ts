@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { BlogsListComponent } from '../blogs/blogs-list/blogs-list.component';
 
 @Component({
   selector: 'app-home',
